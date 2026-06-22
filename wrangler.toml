@@ -1,4 +1,4 @@
-name = "unlimited-transform-api"
+name = "transform-api"
 main = "src/worker.js"
 compatibility_date = "2025-11-21"
 
